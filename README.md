@@ -48,7 +48,6 @@ The analysis includes:
 ## Files
 
 - [Project Presentation](https://docs.google.com/presentation/d/1414qN2EpKyiuWv-95DmD9-s-4nfL22Wy/edit?usp=sharing&ouid=106000101142158471943&rtpof=true&sd=true)
-- [Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1jEhPQ_MLLb1SeKxEYLQRCvwg4olh5nxI/edit?usp=sharing&rtpof=true&sd=true)
 
 ## About the Author
 
