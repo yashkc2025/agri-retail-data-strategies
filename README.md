@@ -1,5 +1,7 @@
 # Data Optimised Strategies for Agricultural Retail
 
+[![Project Presentation](https://img.shields.io/badge/Google%20Slides-View%20Presentation-blue?logo=google-slides)](https://docs.google.com/presentation/d/1414qN2EpKyiuWv-95DmD9-s-4nfL22Wy/edit?usp=sharing&ouid=106000101142158471943&rtpof=true&sd=true)
+
 This project focuses on addressing profit and inventory management challenges faced by Laxmi Khad Bhandar, an agricultural retail shop established in 1987 specializing in farm essentials such as shovels, seeds, and fertilizers.
 
 ## Project Overview
@@ -45,10 +47,6 @@ The analysis includes:
 6. **E-commerce Integration**: Expand to platforms like Flipkart and Amazon
 7. **Demand-based Pricing**: Adjust pricing strategies based on seasonal demand
 
-## Files
-
-- [Project Presentation](https://docs.google.com/presentation/d/1414qN2EpKyiuWv-95DmD9-s-4nfL22Wy/edit?usp=sharing&ouid=106000101142158471943&rtpof=true&sd=true)
-
 ## About the Author
 
 This project was completed by Yash Kumar (Roll No: 22f3000472) as part of the BDM Capstone Project for the IITM BS Degree Program at the Indian Institute of Technology, Madras.
@@ -56,7 +54,3 @@ This project was completed by Yash Kumar (Roll No: 22f3000472) as part of the BD
 ## Acknowledgements
 
 Special thanks to Laxmi Khad Bhandar for providing the necessary resources that enabled the completion of this project.
-
----
-
-**Note**: This repository contains an academic project completed for course fulfillment in the BS Degree Program offered by IIT Madras. The institution does not endorse any claims or comments made in this project.
